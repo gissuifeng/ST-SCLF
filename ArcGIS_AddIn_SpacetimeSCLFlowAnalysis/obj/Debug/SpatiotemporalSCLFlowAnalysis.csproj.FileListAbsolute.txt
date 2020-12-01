@@ -1,0 +1,8 @@
+C:\Users\lqq\Documents\GitHub\arcobject-sdk-projects\ArcMapAddin 104\SpatiotemporalSCLFlowAnalysis104\obj\Debug\SpatiotemporalSCLFlowAnalysis.Form1.resources
+C:\Users\lqq\Documents\GitHub\arcobject-sdk-projects\ArcMapAddin 104\SpatiotemporalSCLFlowAnalysis104\obj\Debug\SpatiotemporalSCLFlowAnalysis.csproj.GenerateResource.Cache
+C:\Users\lqq\Documents\GitHub\arcobject-sdk-projects\ArcMapAddin 104\SpatiotemporalSCLFlowAnalysis104\bin\Debug\SpatiotemporalSCLFlowAnalysis.dll
+C:\Users\lqq\Documents\GitHub\arcobject-sdk-projects\ArcMapAddin 104\SpatiotemporalSCLFlowAnalysis104\bin\Debug\SpatiotemporalSCLFlowAnalysis.pdb
+C:\Users\lqq\Documents\GitHub\arcobject-sdk-projects\ArcMapAddin 104\SpatiotemporalSCLFlowAnalysis104\obj\Debug\SpatiotemporalSCLFlowAnalysis.dll
+C:\Users\lqq\Documents\GitHub\arcobject-sdk-projects\ArcMapAddin 104\SpatiotemporalSCLFlowAnalysis104\obj\Debug\SpatiotemporalSCLFlowAnalysis.pdb
+C:\Users\lqq\Documents\GitHub\arcobject-sdk-projects\ArcMapAddin 104\SpatiotemporalSCLFlowAnalysis104\obj\Debug\SpatiotemporalSCLFlowAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\lqq\Documents\GitHub\arcobject-sdk-projects\ArcMapAddin 104\SpatiotemporalSCLFlowAnalysis104\bin\Debug\SpatiotemporalSCLFlowAnalysis.esriAddIn
